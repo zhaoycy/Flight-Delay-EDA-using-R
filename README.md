@@ -1,6 +1,6 @@
 # Flight-Delay-EDA-using-R
 This analysis seeks to explore and visualise how these factors correlate with delays, particularly focusing on understanding the number of delayed flights, how weather impacts delays, and the distribution of delays across different times, days, and carriers.
-**Code**:[Flight Delay EDA.txt](https://github.com/zhaoycy/Data-Analysis/blob/main/Flight%20Delay%20EDA.txt)
+**Code**:[Flight Delay EDA.txt](https://github.com/zhaoycy/Flight-Delay-EDA-using-R/blob/main/Flight%20Delay%20EDA.txt)
 
 **Goal**: To visualise the effect of various factors like scheduled time, carrier, destination, weather, and day of the week on flight delays, using a variety of plots.
 
